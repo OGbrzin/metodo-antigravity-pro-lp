@@ -23,7 +23,7 @@
     --font-text: 'Inter', sans-serif;
     
     /* Estrutura */
-    --spacing-section: 100px;
+    --spacing-section: 120px;
     --border-radius: 12px;
     --transition: all 0.3s ease;
     --card-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
@@ -124,8 +124,8 @@ section {
 .btn-primary {
     background-color: var(--destaque-laranja);
     color: #FFF;
-    padding: 16px 32px;
-    font-size: 1.125rem;
+    padding: 20px 40px;
+    font-size: 1.2rem;
     text-transform: uppercase;
     box-shadow: 0 4px 15px rgba(247, 108, 27, 0.4);
 }
@@ -137,8 +137,8 @@ section {
 }
 
 .btn-large {
-    padding: 20px 48px;
-    font-size: 1.25rem;
+    padding: 24px 54px;
+    font-size: 1.35rem;
     width: 100%;
     max-width: 450px;
 }
