@@ -8,8 +8,8 @@
 /* --- DESIGN SYSTEM: VARIÁVEIS --- */
 :root {
     /* Cores Principais */
-    --bg-color: #1E1E1E;
-    --text-color: #F9F9F9;
+    --bg-color: #F9F9F9;
+    --text-color: #1E1E1E;
     
     /* Destaques (10%) */
     --destaque-laranja: #F76C1B;
